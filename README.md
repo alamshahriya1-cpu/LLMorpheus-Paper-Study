@@ -1,4 +1,16 @@
 # LLMorpheus
+## Academic Study Note
+
+This repository is forked from the original LLMorpheus project for academic study and presentation purposes.
+
+**Paper:** LLMorpheus: Mutation Testing using Large Language Models  
+**Authors:** Frank Tip, Jonathan Bell, and Max Schäfer  
+**Published in:** IEEE Transactions on Software Engineering, 2025
+
+This repository is being used to study the research problem, gap, proposed method, experiments, results, limitations, and impact of the paper.
+
+**Original project:** https://github.com/neu-se/llmorpheus  
+**Experimental data:** https://github.com/neu-se/mutation-testing-data
 
 LLMorpheus is a tool for applying mutation testing to npm packages written in JavaScript/TypeScript using a large language model (LLM).
 
